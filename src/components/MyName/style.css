@@ -1,0 +1,17 @@
+.name-container{
+    padding-top: 160px;
+    margin-top: 100px;
+}
+
+.name-container h1, p{
+    margin: 0;
+}
+
+#myName, .name-container p{
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: 300;
+}
+
+#myName{
+    font-size: 64px;
+}
