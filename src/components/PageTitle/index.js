@@ -3,9 +3,9 @@ import "./style.css";
 
 function PageTitle(props){
     return(
-        <div className="uk-text-center page-title" style = {{paddingTop: props.padding}}>
+        <div className="uk-text-center page-title" style = {{paddingTop: props.paddingTop, paddingBottom:props.paddingBottom}}>
             <h1>{props.title}</h1>
-            <p>{props.description}s</p>
+            <p>{props.description}</p>
         </div>
     )
 }

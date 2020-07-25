@@ -2,8 +2,9 @@ import React from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import AboutMePage from "./pages/AboutMePage"
 import PortfolioPage from "./pages/PortfolioPage"
-import SkillsPage from "./pages/SkillsPage"
+import ContactMePage from "./pages/ContactMePage"
 import Footer from "./components/Footer"
+import MobileNavbar from "./components/MobileNavbar"
 
 function App() {
   return (
@@ -11,7 +12,8 @@ function App() {
       <Route exact path="/" component={AboutMePage} />
       <Route path="/about" component={AboutMePage} />
       <Route path="/portfolio" component={PortfolioPage} />
-      <Route exact path="/skills" component={SkillsPage} />
+      <Route exact path="/contact" component={ContactMePage} />
+      <MobileNavbar />
       <Footer />
     </Router >
   );

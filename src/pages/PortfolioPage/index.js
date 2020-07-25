@@ -16,7 +16,8 @@ function AboutMePage () {
             <PageTitle 
                 title = "Portfolio"
                 description = "Here are some of my most recent work"
-                padding= {140}
+                paddingTop = {140}
+                paddingBottom = {70}
             />
             <Container>
                 {
