@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.fdfd450e.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.e71dd393.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.e71dd393.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.bc59954b.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.bc59954b.js.map",
+    "static/js/2.59e430b5.chunk.js": "/react-portfolio/static/js/2.59e430b5.chunk.js",
+    "static/js/2.59e430b5.chunk.js.map": "/react-portfolio/static/js/2.59e430b5.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.e0d4c495c09eb3e87e500c71db88e00c.js": "/react-portfolio/precache-manifest.e0d4c495c09eb3e87e500c71db88e00c.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.fdfd450e.chunk.css.map": "/react-portfolio/static/css/main.fdfd450e.chunk.css.map",
+    "static/js/2.59e430b5.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.59e430b5.chunk.js.LICENSE.txt",
+    "static/media/DanielTanoeihusada.pdf": "/react-portfolio/static/media/DanielTanoeihusada.86b4b123.pdf",
+    "static/media/aboutMe.jpg": "/react-portfolio/static/media/aboutMe.772d030f.jpg",
+    "static/media/background1.jpg": "/react-portfolio/static/media/background1.81cf41ef.jpg",
+    "static/media/budget-tracker.png": "/react-portfolio/static/media/budget-tracker.5fbce81e.png",
+    "static/media/employee-directory.png": "/react-portfolio/static/media/employee-directory.987b9f32.png",
+    "static/media/fitness-tracker.png": "/react-portfolio/static/media/fitness-tracker.7697a2c3.png",
+    "static/media/notetaker.png": "/react-portfolio/static/media/notetaker.c2f0290d.png",
+    "static/media/spending.png": "/react-portfolio/static/media/spending.f0e82440.png",
+    "static/media/treehouse.png": "/react-portfolio/static/media/treehouse.aca1cc62.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc59954b.js",
+    "static/js/2.59e430b5.chunk.js",
+    "static/css/main.fdfd450e.chunk.css",
+    "static/js/main.e71dd393.chunk.js"
+  ]
+}
