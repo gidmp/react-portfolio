@@ -1,17 +1,15 @@
-# [React Portfolio](https://gidmp.github.io/Employee-Directory/)
+# [React Portfolio](https://gidmp.github.io/react-portfolio/#/)
 
 ## Description
-Workout Tracker is a full-stack web app that enables user to keep track of their exercise progress.
-User can add and then view their workout progress in their dashboard to see their workout status.
+This is my deployed React portfolio. I am a full-stack coding bootcamp student from University of Washington hoping to
+develop a career as a web developer. I built this portfolio using REACT, which I enjoy more than I expected.
 
-This app was made with mongoDB as its theme. My task is to take the pre-built HTML, CSS and JS
-and create the back-end connection to the server and mongoDB database using mongoose.
+Weary traveler, please have a quick look if you may, and if you are interested, feel free to contact me.
 
 ## Table of Contents
 * [Technologies](#technologies)
 * [Usage](#usage)
 * [Demo](#demo)
-* [Directions for Future Development](#Directions-for-future-Development)
 * [Questions](#questions)
 
 ## Technologies
@@ -21,24 +19,18 @@ and create the back-end connection to the server and mongoDB database using mong
 * JavaScript
 * Node.js
 * REACT
-* Axios
+* React router
+* UIKit
 
 ## Usage
 ------
-* Navigate to the [deployed Github Pages App](https://gidmp.github.io/Employee-Directory/).
-* On the Home page, user can scroll and view the employee list 
-* User can filter the employee by name using the search bar
-* User can click on the header to toggle employeed by alphabet, phone number, email and date of birth in ascending or descending order
+* Navigate to the [deployed portfolio](https://gidmp.github.io/react-portfolio/#/).
 
 ## Demo
 ------
 
+![](./src/assets/portfolio1.gif)
 
-
-## Directions for Future Development
-------
-* update HTML and CSS to be more streamlined and pleasing to look
-* Use an actual company employee list instead of dummy list
 
 ## Questions
 ------
