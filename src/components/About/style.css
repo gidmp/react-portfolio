@@ -1,12 +1,18 @@
 .about-me{
     border: 2px solid #6ad6c8;
     border-radius: 18px;
-    padding: 6%;
+    padding: 8%;
 }
 
 .about-container{
-    margin-bottom: 150px;
+    margin-bottom: 80px;
     margin-top: 200px;
+}
+
+.about-text-container{
+    font-size:16px;
+    padding: 0px 20px 30px 20px;
+    font-weight: 350;
 }
 
 #mugshot{
