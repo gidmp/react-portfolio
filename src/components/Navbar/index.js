@@ -2,7 +2,7 @@
 import React from "react";
 import "./style.css";
 import { Link } from "react-router-dom";
-import Resume from "../../assets/resume/DanielTanoeihusada.pdf"
+import Resume from "../../assets/resume/DanielTanoeihusada2.pdf"
 
 function Background(props){
     return(

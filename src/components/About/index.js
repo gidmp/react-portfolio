@@ -14,17 +14,20 @@ function About(){
                         <h1 className="about-me-title uk-heading-divider">About Me</h1>
                         <div className = "about-text-container"> 
                             <p>
-                                Hi, My name is Daniel Luke Tanoeihusada and I am a fresh full-stack web developer.
-                                For a few years i have been working in Histology laboratory based on the University of Washington Medical Center.
-                                This career have taught me to the value of hard work, discipline and flexibility; the same principle that I
-                                try to apply ever since I decided to learn web development.
+                            Hi. My name is Daniel Luke Tanoeihusada and I am a fresh, full-stack web developer. 
+                            For a few years I have been working in a Histology laboratory based 
+                            at the University of Washington Medical Center. 
+                            This career has taught me the value of hard work, discipline, and flexibility- the same principles that I try to apply to learning web development.
                             </p>
                             <br></br>
                             <p>
-                                Right now, I am finishing full-stack web development bootcamp from University of Washington, where
-                                I have learned and hone my skill to create a fully functinal web applications. Concrete things that I did not usually 
-                                experience in my line of work. I am hoping to put this newly-learned skill to good use and land a promising
-                                new career as web developer. Change is always scary, but I believe that I will brave it through.
+                            Right now, I am finishing the Full-Stack Web Development Bootcamp 
+                            from the University of Washington where I have learned to hone my skills 
+                            to create fully functional web applications- concrete things that I 
+                            did not usually experience in my line of work. I am hoping to put this 
+                            newly-learned skill to good use and land a promising new career as a 
+                            web developer. Change is always scary, but I believe that 
+                            I will brave it through.
                             </p>
                         </div>
                         <div className="uk-text-center uk-text-middle">
