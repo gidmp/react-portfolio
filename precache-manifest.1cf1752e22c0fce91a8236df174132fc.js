@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f05b9d1f223542d1044e90820221fed2",
+    "revision": "5b1ab8f1af07cd1b85c31eb6e3df3ef2",
     "url": "/react-portfolio/index.html"
   },
   {
-    "revision": "d04beee837af51118696",
+    "revision": "98d33a27a9770bc5c126",
     "url": "/react-portfolio/static/css/main.fdfd450e.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/js/2.fa8fb774.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d04beee837af51118696",
-    "url": "/react-portfolio/static/js/main.549e9e38.chunk.js"
+    "revision": "98d33a27a9770bc5c126",
+    "url": "/react-portfolio/static/js/main.9fbcb98d.chunk.js"
   },
   {
     "revision": "aff33cef9dbb8787d6b3",
     "url": "/react-portfolio/static/js/runtime-main.213b1880.js"
   },
   {
-    "revision": "9dad6d07b6190635fbd2526f58dca043",
-    "url": "/react-portfolio/static/media/DanielTanoeihusada2.9dad6d07.pdf"
+    "revision": "fda21908116d8432d526b4fcc2f7571b",
+    "url": "/react-portfolio/static/media/DanielTanoeihusada2.fda21908.pdf"
   },
   {
     "revision": "772d030f44719f76d7927f11f637240e",
