@@ -5,6 +5,8 @@ import noteTakerImg from "../assets/images/portfolio-images/notetaker.png";
 import budgetTrackerImg from "../assets/images/portfolio-images/budget-tracker.png";
 import employeeDirectoryImg from "../assets/images/portfolio-images/employee-directory.png";
 import fitnessTrackerImg from "../assets/images/portfolio-images/fitness-tracker.png";
+import representMeImg from "../assets/images/portfolio-images/representMe.png";
+
 
 function PortfolioList(name, description, img, appLink, githubLink) {
     this.name = name;
@@ -14,6 +16,13 @@ function PortfolioList(name, description, img, appLink, githubLink) {
     this.githubLink = githubLink;
 };
 
+const representMe = new PortfolioList(
+    "Represent-Me",
+    "A MERN stack application that allows user to find information on their local governing body",
+    representMeImg,
+    "https://represent-me-2020.herokuapp.com/",
+    "https://github.com/gidmp/Represent-Me"
+);
 
 const checkYourself = new PortfolioList(
     "Check Yourself",
@@ -66,6 +75,6 @@ const fitnessTracker = new PortfolioList(
 
 
 
-let portfolioList = [checkYourself, treehouse, noteTaker, budgetTracker, employeeDirectory,fitnessTracker];
+let portfolioList = [representMe, checkYourself, treehouse, noteTaker, budgetTracker, employeeDirectory,fitnessTracker];
 
 export default portfolioList;
